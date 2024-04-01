@@ -1,3 +1,4 @@
+![Logo MarkDown](Markdown-mark.svg "Logo MarkDown")
 # Tutorial básico de MarkDown
 ## Con este archivo aprenderemos a trabajar con MarkDown
 
@@ -16,5 +17,17 @@
 
 4. También podremos escribir enlaces a páginas web, primero con los corchetes[], aquí escribiremos como queremos que aparezca el título en el archivo, y segundo con (), donde primero escribiremos la url del lugar que queramos ir, y luego entre comillas una breve descripción de donde accederemos, pongo aqui abajo un ejemplo con mi GitHub: <br>
 [github.com/cjimrec](https://github.com/cjimrec "GitHub Carlos Jimenez Recio")
+5. Como podemos ver en el encabezado, también podemos subir imágenes de la siguiente manera: ![aqui pondremos un texto explicativo por si la imagen no se pudiera cargar], y a continuación (el nombre del archivo que tengamos con la imagen "y una descripción breve de la imagen")
+6. Por último, también podemos subir parte de un código que queramos compartir de la siguiente manera ``````, y en medio de esto, copiaremos nuestro código, así mismo, podemos indicar qué tipo de documento es, para que nos lo organice mejor, y a continuación pondremos un ejemplo:
+```java
+import java.util.*;
+
+public class HelloWorld{
+public static void main[String()args]{
+    System.out.println("Hello World");
+    }
+}
+```
+### Aqui  concluiria el pequeño tutorial muy básico de MarkDown, espero que les haya gustado.
 
 
