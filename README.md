@@ -1,5 +1,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" height="40"/>
-## Práctica MarkDown
+<h2> Práctica MarkDown</h2>
 ***
 ### Entornos de desarrollo
 
